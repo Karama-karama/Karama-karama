@@ -6,6 +6,13 @@ I'm Karama a software engineering student with a bachelor degree in Management o
 - 🌱 I’m currently improving my coding skills in Python and Javascript.
 - 💞️ I’m looking for a graduation internship.
 
+### 📌 Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karama-karama&theme=synthwave&repo=PlanetX)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karama-karama&theme=synthwave&repo=ProjetSymfony)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karama-karama&theme=synthwave&repo=Vache_Taurau)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### :hammer_and_wrench: Languages and Tools
 
