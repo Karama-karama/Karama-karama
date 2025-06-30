@@ -2,9 +2,9 @@ Hi there 🤩
 
 I'm Karama a software engineering student with a bachelor degree in Management of information technologies.
 
-- 👀 I’m interested in DS, DA, AI, Machine learning and entrepreneurship.
-- 🌱 I’m currently improving my coding skills in Python and Javascript.
-- 💞️ I’m looking for a graduation internship.
+- 👀 Passionate about building scalable web applications and solving complex problems.
+- 🌱 Continuously sharpening my skills in modern web technologies and best practices.
+- 💼 Looking for opportunities that offer professional growth, learning, and a supportive environment.
 
 ### 📌 Pinned Repositories
 
